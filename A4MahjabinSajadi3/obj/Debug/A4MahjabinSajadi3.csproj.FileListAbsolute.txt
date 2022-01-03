@@ -1,0 +1,7 @@
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\bin\Debug\A4MahjabinSajadi3.exe.config
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\bin\Debug\A4MahjabinSajadi3.exe
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\bin\Debug\A4MahjabinSajadi3.pdb
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\obj\Debug\A4MahjabinSajadi3.csprojAssemblyReference.cache
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\obj\Debug\A4MahjabinSajadi3.csproj.CoreCompileInputs.cache
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\obj\Debug\A4MahjabinSajadi3.exe
+C:\prog1781\A4MahjabinSajadi3\A4MahjabinSajadi3\A4MahjabinSajadi3\obj\Debug\A4MahjabinSajadi3.pdb
