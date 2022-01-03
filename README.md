@@ -1,0 +1,2 @@
+# Csharp-console-application-with-array-that-create-and-record-information-for-the-vehicles-assigned
+Create a C# console program that creates and records information for the vehicles assigned to each of the four (4)  Mechanics who work at the shop. To simplify the problem, Assume the garage only services four vehicle brands which  are Toyota (1), Mercedes (2), Land Rover (3), Ferrari (4) note the number assigned to each brand
